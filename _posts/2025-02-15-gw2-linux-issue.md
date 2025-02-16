@@ -23,3 +23,7 @@ I made the switch to protonplus due to protonGE becoming unmaintained, and had b
 It seems to be smooth sailing so far, no freezes or frame skips in the 1-2 hrs I've spent playing gw2.
 
 I consider this problem solved (for now), and I hope this post helped anyone who was dealing with the same issue.
+
+## Edit:
+
+Make sure you have the steam overlay turned on as well, it seems to help with perf too.
